@@ -1,6 +1,0 @@
-def add(a,b):
-  c=a+b
-  print c
-  
-d=input("Please enter the first number")
- 
