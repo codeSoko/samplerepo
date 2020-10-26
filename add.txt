@@ -4,7 +4,7 @@ def add(a,b):
   print c
   
 d=input("Please enter the first number")
-e=input("Please enter second number")
+e=input("Please enter second numbr")
 print("The addition of inputted two numbers is")
 add(d,e)
 print("please press enter")
